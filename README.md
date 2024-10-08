@@ -10,5 +10,8 @@ This repository shows a step-by-step guide for connecting SQL database and Power
 ``` SQL
 Select Top 25 * from Bank_Term_Deposit_Subscription;
 ```
-- Then the preview loads, verify the information and click Load.
-
+- Then the preview loads, verify the information and click load
+### Conclusion
+- Ensure all necessary prerequisites are met before starting the connection process.
+- It is very important to verify data accuracy at each step of the integration process because failaure to do so will affect the overall analysis 
+  
